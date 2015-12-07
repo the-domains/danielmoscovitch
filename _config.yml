@@ -1,6 +1,6 @@
 name: DanielMoscovitch
 favicon: null
-layout_spectrum: 0.08954
+layout_spectrum: 0.25443
 typography_spectrum: 0.25446
 title: 'Producer, Musician, Educator'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#060014'
+    - '#f9f9f9'
+    - '#bc23aa'
+    - '#bab1ca'
+    - '#6d6381'
   brandStrength: 0.5625
-  lightness: 0.375
-  saturation: 0
+  lightness: 0.5
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []
