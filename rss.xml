@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Producer, Musician, Educator]]></title>
         <description><![CDATA[Producer, Musician, Educator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danielmoscovitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 07:11:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 07:13:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danielmoscovitch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[page only Does this go in to title? ]]></title>
-            <description><![CDATA[<article><h1>page only Does this go in to title? </h1><p>Homepage should have a title</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16d8d9111e59136b575aed7c8eef9e1f2b84afbf.jpg"></article>]]></description>
-            <link>undefinedmain-page/index.html</link>
+            <title><![CDATA[both ticked ob Does this go in to title? ]]></title>
+            <description><![CDATA[<article><h1>both ticked ob Does this go in to title? </h1><p>Homepage should have a title</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16d8d9111e59136b575aed7c8eef9e1f2b84afbf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/danielmoscovitch/main-page/index.html</link>
             <guid isPermaLink="false">9dade57c-f892-44aa-9752-b2b1a2ab42d5</guid>
-            <pubDate>Tue, 15 Dec 2015 07:11:03 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 07:13:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
