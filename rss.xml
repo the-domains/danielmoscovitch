@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Producer, Musician, Educator]]></title>
         <description><![CDATA[Producer, Musician, Educator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danielmoscovitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 02:09:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 02:55:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danielmoscovitch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1540b1ad-1cc4-4f68-a05b-9ed6a060fa22.jpg">]]></description>
-            <link>undefined9dade57c-f892-44aa-9752-b2b1a2ab42d5/index.html</link>
+            <link>https://thegrid.ai/danielmoscovitch/9dade57c-f892-44aa-9752-b2b1a2ab42d5/index.html</link>
             <guid isPermaLink="false">9dade57c-f892-44aa-9752-b2b1a2ab42d5</guid>
-            <pubDate>Tue, 15 Dec 2015 02:09:43 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 02:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
