@@ -4,14 +4,14 @@
         <description><![CDATA[Producer, Musician, Educator]]></description>
         <link>https://thegrid.ai/danielmoscovitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 06:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 06:58:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielmoscovitch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Main Page]]></title>
-            <description><![CDATA[<article><h1>Main Page</h1><p>Here's a regular post </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16d8d9111e59136b575aed7c8eef9e1f2b84afbf.jpg"></article>]]></description>
+            <title><![CDATA[This should be the text in the page]]></title>
+            <description><![CDATA[<article><h1>This should be the text in the page</h1><p>Homepage should have a title</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16d8d9111e59136b575aed7c8eef9e1f2b84afbf.jpg"></article>]]></description>
             <link>https://thegrid.ai/danielmoscovitch/main-page/index.html</link>
             <guid isPermaLink="false">9dade57c-f892-44aa-9752-b2b1a2ab42d5</guid>
-            <pubDate>Tue, 15 Dec 2015 06:22:44 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 06:58:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
