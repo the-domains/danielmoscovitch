@@ -4,7 +4,7 @@
         <description><![CDATA[Producer, Musician, Educator]]></description>
         <link>https://thegrid.ai/danielmoscovitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 02:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 06:06:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielmoscovitch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/danielmoscovitch/9dade57c-f892-44aa-9752-b2b1a2ab42d5/index.html</link>
             <guid isPermaLink="false">9dade57c-f892-44aa-9752-b2b1a2ab42d5</guid>
             <pubDate>Tue, 15 Dec 2015 02:55:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/496481b3-2f8a-4b22-86b6-b9f5be69611b.JPG">]]></description>
+            <link>https://thegrid.ai/danielmoscovitch/35d0307a-78c7-4a93-8a96-e47f318af9c9/index.html</link>
+            <guid isPermaLink="false">35d0307a-78c7-4a93-8a96-e47f318af9c9</guid>
+            <pubDate>Tue, 15 Dec 2015 06:06:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
