@@ -6,19 +6,19 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: cover
-datePublished: '2015-12-21T20:37:51.355Z'
-dateModified: '2015-12-21T20:37:08.526Z'
+description: cover description
+datePublished: '2015-12-21T20:48:14.203Z'
+dateModified: '2015-12-21T20:48:06.781Z'
 title: "This Is The Cover\_"
 author: []
+sourcePath: _posts/2015-12-21-this-is-the-cover.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-this-is-the-cover.md
-published: true
 _type: Blurb
 
 ---
