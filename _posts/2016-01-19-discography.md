@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: DISCOGRAPHY
-datePublished: '2016-01-19T20:04:58.005Z'
+datePublished: '2016-01-19T20:04:58.092Z'
 dateModified: '2016-01-19T20:04:54.218Z'
 title: Discography
 author: []
