@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: DISCOGRAPHY
-datePublished: '2016-01-19T20:00:44.606Z'
-dateModified: '2016-01-19T20:00:42.060Z'
+datePublished: '2016-01-19T20:04:57.960Z'
+dateModified: '2016-01-19T20:04:54.218Z'
 title: Discography
 author: []
 sourcePath: _posts/2016-01-19-discography.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: discography/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 DISCOGRAPHY
