@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: DISCOGRAPHY
-datePublished: '2016-01-19T19:58:10.581Z'
-dateModified: '2016-01-19T19:57:56.785Z'
+datePublished: '2016-01-19T20:00:44.606Z'
+dateModified: '2016-01-19T20:00:42.060Z'
 title: Discography
 author: []
+sourcePath: _posts/2016-01-19-discography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-discography.md
-published: true
 url: discography/index.html
-_type: Article
+_type: Blurb
 
 ---
 DISCOGRAPHY
