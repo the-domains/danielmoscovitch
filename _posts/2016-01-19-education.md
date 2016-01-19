@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: EDUCATION
-datePublished: '2016-01-19T19:25:39.004Z'
-dateModified: '2016-01-19T19:25:34.423Z'
+datePublished: '2016-01-19T19:31:23.297Z'
+dateModified: '2016-01-19T19:31:19.557Z'
 title: Education
 author: []
 sourcePath: _posts/2016-01-19-education.md
