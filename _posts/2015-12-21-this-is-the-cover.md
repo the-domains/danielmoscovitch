@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: cover description
-datePublished: '2016-01-21T19:56:02.546Z'
-dateModified: '2016-01-21T19:55:59.934Z'
+datePublished: '2016-01-21T20:02:33.337Z'
+dateModified: '2016-01-21T20:02:31.034Z'
 title: "This Is The Cover\_"
 author: []
 sourcePath: _posts/2015-12-21-this-is-the-cover.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: this-is-the-cover/index.html
-_type: Article
+_type: Blurb
 
 ---
 # 
