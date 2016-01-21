@@ -1,6 +1,6 @@
 name: DanielMoscovitch
 favicon: null
-layout_spectrum: 0.47743
+layout_spectrum: 0.4228
 typography_spectrum: 0.55819
 title: DANIEL MOSCOVITCH
 cta:
@@ -22,8 +22,8 @@ color:
     - '#83add5'
     - '#a06255'
     - '#098d5c'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  brandStrength: 0.25
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
