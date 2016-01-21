@@ -1,7 +1,7 @@
 name: DanielMoscovitch
 favicon: null
-layout_spectrum: 0.74584
-typography_spectrum: 0.25446
+layout_spectrum: 0.47743
+typography_spectrum: 0.55819
 title: DANIEL MOSCOVITCH
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#526ba3'
-    - '#141823'
-    - '#f4006d'
-    - '#4adb6c'
+    - '#1a191e'
+    - '#f0f0f2'
+    - '#83add5'
+    - '#a06255'
+    - '#098d5c'
   brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.375
-  rhythmicContrast: 0.5
+  lightness: 0.625
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
