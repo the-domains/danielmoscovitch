@@ -4,8 +4,15 @@
         <description><![CDATA[DANIEL MOSCOVITCH]]></description>
         <link>https://thegrid.ai/danielmoscovitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 19:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 20:01:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danielmoscovitch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VU]]></title>
+            <description><![CDATA[<article><h1>VU</h1><p>Check out this nifty VU meter</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03133dbb1e97da90389a1ebdc8cde73669aad9d6.png"></article>]]></description>
+            <link>https://thegrid.ai/danielmoscovitch/vu/index.html</link>
+            <guid isPermaLink="false">0fb74da3-0bc9-4cb9-a384-01eb83295875</guid>
+            <pubDate>Thu, 21 Jan 2016 20:00:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Let's Play]]></title>
             <description><![CDATA[<article><h1>Let's Play</h1><p>How bout these instruments ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40ccb86a3d1302db35ab3092b22db7520530fa12.png"></article>]]></description>
