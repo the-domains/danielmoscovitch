@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[DANIEL MOSCOVITCH]]></title>
         <description><![CDATA[DANIEL MOSCOVITCH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danielmoscovitch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 19:52:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 19:52:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danielmoscovitch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Is The Cover ]]></title>
             <description><![CDATA[<article><h1></h1><p>It published Homepage And Page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc6c0deeb666277b429904cb06ff5cdc0484146f.png"></article>]]></description>
-            <link>undefinedthis-is-the-cover/index.html</link>
+            <link>https://thegrid.ai/danielmoscovitch/this-is-the-cover/index.html</link>
             <guid isPermaLink="false">e7162f11-ec45-4e9a-ac38-7fa4b110f54a</guid>
             <pubDate>Thu, 21 Jan 2016 19:52:06 GMT</pubDate>
         </item>
