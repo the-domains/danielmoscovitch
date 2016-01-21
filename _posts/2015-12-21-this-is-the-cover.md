@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: cover description
-datePublished: '2016-01-21T18:56:49.398Z'
-dateModified: '2016-01-21T18:56:42.270Z'
+datePublished: '2016-01-21T19:24:15.732Z'
+dateModified: '2016-01-21T19:24:13.185Z'
 title: "This Is The Cover\_"
 author: []
 sourcePath: _posts/2015-12-21-this-is-the-cover.md
