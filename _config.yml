@@ -1,4 +1,4 @@
-name: DanielMoscovitch
+name: Daniel Moscovitch
 favicon: null
 layout_spectrum: 0.37292
 typography_spectrum: 0.55819
@@ -22,8 +22,8 @@ color:
     - '#83add5'
     - '#a06255'
     - '#098d5c'
-  brandStrength: 0.25
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.125
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
