@@ -1,4 +1,4 @@
-typography_spectrum: 0.3862530447077006
+typography_spectrum: 0.09464752115309238
 color:
   saturation: 0.008084521861746907
   brandStrength: 0.4411288963165134
@@ -24,6 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Contact
+    id: ac6d18dc-81c1-4d0d-955f-f57378c1e180
+    type: content
 favicon: null
 collections:
   - index:
